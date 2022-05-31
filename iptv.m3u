@@ -7,6 +7,8 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
 https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin?m3u8
+#EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal", Fox Crime FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/579
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
 https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
@@ -169,6 +171,58 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8231
 #EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bein_box_office.png/600px-Bein_box_office.png" group-title="Eğlence", beIN Series Vice FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1771
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Action HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/192414
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Family FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/192417
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/533
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Horror FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/192415
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Kadir Inanir FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/192549
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Kemal Sunal FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/147199
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Sener Sen FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/244947
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Yerli HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/147203
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/4c/FILMBOX_HD.png" group-title="Eğlence", FilmBox Yesilcam FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/42925
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Saban_Entertainment_logo.svg/1200px-Saban_Entertainment_logo.svg.png" group-title="Eğlence", Kemal Sunal TV FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/20993
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Saban_Entertainment_logo.svg/1200px-Saban_Entertainment_logo.svg.png" group-title="Eğlence", SL Kemal Sunal 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/43539
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SINEVIZYON 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/280342
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21004
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21005
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21006
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21007
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21008
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21010
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 8 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/286868
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 9 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21012
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 10 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21013
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 11 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/21014
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 12 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/32159
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 15 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/39503
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 17 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/39506
+#EXTINF:1 tvg-id="Dizi.us" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.18169-9/483731_182108691941207_236938556_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qSL_yjBJAM4AX9APAwc&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT8mLETUzDSQ53EuSfjfG3C41X9TAZ9vcjz8q0ViIK9v1g&oe=62BA096C" group-title="Eğlence", SineVizyon 20 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/41269
 #EXTINF:1 tvg-id="TRTSpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/82d25df4-51bf-47f1-814c-caf622fe1022.png" group-title="Spor",TRT Spor
 http://46.31.146.187:44500/play/a026/index.m3u8
 #EXTINF:1 tvg-id="TRTSporYildiz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title="Spor",TRT Spor Yıldız
@@ -201,6 +255,18 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1748
 #EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://cdnuploads.aa.com.tr/uploads/sirkethaberleri/Contents/2020/04/15/thumbs_b_c_f01550a90a9742a26d2d18e4f0fb692d.jpg" group-title="Spor", Tivibu Spor 3 FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1749
+#EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="Spor",Spor Smart FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1750
+#EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Smart-spor-2_635084424082165858.png" group-title="Spor",Spor Smart 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/50121
+#EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp):focal(1281x733:1283x731)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="Spor",EUROSPORT 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1755
+#EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp):focal(1281x733:1283x731)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="Spor",EUROSPORT 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1756
+#EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="Spor",S Sport FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/1753
+#EXTINF:1 tvg-id="BeInSportsHaber.qa" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="Spor",S Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/10167
 #EXTINF:1 tvg-id="GSTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a77255f9-dd8e-421d-b59d-5d0e11a09fd6.png" group-title="Spor",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9f025829-56eb-4290-9386-b4d38ca0d9d1.png" group-title="Spor",Yeni Malatyaspor TV
@@ -305,6 +371,8 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/273720
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://yt3.ggpht.com/KDLFW5YWda7nuYUN3sGj6vIPKZedI_JsNeoldsPDSgw6UoC9hmqVLmRg8hVoxQxyb_EYeMLjfQ=s88-c-k-c0x00ffffff-no-rj" group-title="Belgesel", BBC Earth FHD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/8238
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://scontent.fdnz1-1.fna.fbcdn.net/v/t1.6435-9/149285860_5655119887846811_3705249233380341597_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8BWxBfdjBrMAX8PhNkD&_nc_ht=scontent.fdnz1-1.fna&oh=00_AT9wTi0bp1RYsH2-YbLdqDswIQ2FY-GaxCbioNncBUHm1Q&oe=62B987E7" group-title="Belgesel", Science & Vie TV FHD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/32593
 #EXTINF:1 tvg-id="TRTCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3e16f055-ea79-48e6-bb77-0522c680f63d.png" group-title="Çocuk",TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="MinikaCocuk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/347a440b-4f6f-45a8-97b6-ecea89581f66.png" group-title="Çocuk",Minika Çocuk
@@ -318,7 +386,7 @@ https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="EBATVLise.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/095d92e1-d1e2-48d0-aa38-235915d7293d.png" group-title="Çocuk",EBA TV Lise
 https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="CartoonNetworkTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b9caf906-69ce-443d-b5d8-81f6c7baaad6.png" group-title="Çocuk",Cartoon Network
-http://185.129.1.242:80/cartoonnetworkturk/mpegts
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:1 tvg-id="DisneyChannelTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/74f2d8a4-9ba4-459e-a20a-27bd54ffc3a2.png" group-title="Çocuk",Disney Channel
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" group-title="Çocuk",blutv Kids
